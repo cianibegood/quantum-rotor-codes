@@ -4,6 +4,8 @@ The repository contains relevant code for the paper C. Vuillot, A. Ciani, B. Ter
 
 The notebooks to generate the data for Figure 8 and Figure 8 itself is located in the folder fig_8_bacon_shor/.  
 
+The notebook to explore examples of homological quantum rotor codes with sage is located in the folder homological_quantum_rotor_code_examples/.
+
 # Software requirements
 
 In order to run the notebook to generate the data for Figure 8 (fig_8_bacon_shor/bacon_shor_code_levels.ipynb)
