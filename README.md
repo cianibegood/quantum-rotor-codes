@@ -11,7 +11,21 @@ it is necessary to install the package "pysqkit" for the study of superconductin
 The package is available at https://github.com/cianibegood/pysqkit.git, where instructions for the installation
 can be found.
 
+To run the notebook with the examples of homological quantum rotor codes it is necessary to install "sage" (
+see the installation guide at https://doc.sagemath.org/html/en/installation/index.html). If you are not interested
+in development and you have a conda installation, we suggest to follow the instructions of installation from 
+conda-forge (see https://doc.sagemath.org/html/en/installation/conda.html#sec-installation-conda). Following 
+these instructions, your "sage" installation will be installed in a conda environent also called "sage". 
+Once this conda environment is activated jupyter notebook can be started as
+
+sage -n jupyter 
+
+Now you can open and run the notebook using sage.
+
+
 If you have difficulties in reproducing the results please write an email to alessandrociani89@gmail.com.
+
+
 
 
 
