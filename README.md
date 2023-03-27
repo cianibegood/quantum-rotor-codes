@@ -1,6 +1,6 @@
 # quantum-rotor-codes
 
-The repository contains relevant code for the paper C. Vuillot, A. Ciani, B. Terhal, "Homological Quantum Rotor Code: Logical Qubits from Torsion" (2023).
+The repository contains relevant code for the paper C. Vuillot, A. Ciani, B. Terhal, ["Homological Quantum Rotor Code: Logical Qubits from Torsion" (2023)](https://arxiv.org/abs/2303.13723).
 
 The notebooks to generate the data for Figure 8 and Figure 8 itself is located in the folder fig_8_bacon_shor/.  
 
